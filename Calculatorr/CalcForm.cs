@@ -144,7 +144,7 @@ namespace Calculatorr
 
         private int GetResult(int number1, int number2, string operation)
         {
-            return 42;
+            return 666;
 
             /*
              * 
