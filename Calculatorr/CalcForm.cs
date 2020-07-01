@@ -144,18 +144,7 @@ namespace Calculatorr
 
         private int GetResult(int number1, int number2, string operation)
         {
-            return 666;
-
-            /*
-             * 
-             switch (operation)
-            {
-                default:
-                    result += 42;
-                    break;
-            } 
-             * 
-             */
+            return 16;
         }
     }
 }
