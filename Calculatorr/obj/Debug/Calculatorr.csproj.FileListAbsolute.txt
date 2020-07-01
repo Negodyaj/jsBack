@@ -1,0 +1,9 @@
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\bin\Debug\Calculatorr.exe.config
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\bin\Debug\Calculatorr.exe
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\bin\Debug\Calculatorr.pdb
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.csprojAssemblyReference.cache
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.Properties.Resources.resources
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.csproj.GenerateResource.cache
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.exe
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.pdb
+C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.CalcForm.resources
