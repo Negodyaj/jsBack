@@ -45,6 +45,8 @@
             this.buttonResult = new System.Windows.Forms.Button();
             this.resultBox = new System.Windows.Forms.TextBox();
             this.currentOperationBox = new System.Windows.Forms.TextBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -221,12 +223,22 @@
             this.currentOperationBox.Text = "42";
             this.currentOperationBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(221, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(35, 178);
+            this.pictureBox1.TabIndex = 19;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // CalcForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(227, 202);
+            this.ClientSize = new System.Drawing.Size(268, 199);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.currentOperationBox);
             this.Controls.Add(this.resultBox);
             this.Controls.Add(this.buttonResult);
@@ -249,6 +261,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Убер-Калькулятор!";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -272,6 +285,7 @@
         private System.Windows.Forms.Button buttonResult;
         private System.Windows.Forms.TextBox resultBox;
         private System.Windows.Forms.TextBox currentOperationBox;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

@@ -21,11 +21,14 @@ namespace Calculatorr
 
             resultBox.Text = "0";
             currentOperationBox.Text = _readyToStartMessage;
+            pictureBox1.Image = new Bitmap(100, 100);
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            Bitmap bmp = new Bitmap(pictureBox1.Width, pictureBox1.Height);
+            bmp.SetPixel(10, 10, Color.Red);
+            pictureBox1.Image = bmp;
         }
 
         private void perdelka1_Click(object sender, EventArgs e)
@@ -144,7 +147,23 @@ namespace Calculatorr
 
         private int GetResult(int number1, int number2, string operation)
         {
-            return 16;
+            return 42;
+
+            /*
+             * 
+             switch (operation)
+            {
+                default:
+                    result += 42;
+                    break;
+            } 
+             * 
+             */
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("хуяк-хуяк");
         }
     }
 }
