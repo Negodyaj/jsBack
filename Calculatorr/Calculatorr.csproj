@@ -55,6 +55,7 @@
     <Compile Include="Figures.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Qqqing.cs" />
     <EmbeddedResource Include="CalcForm.resx">
       <DependentUpon>CalcForm.cs</DependentUpon>
     </EmbeddedResource>

@@ -146,5 +146,10 @@ namespace Calculatorr
         {
             return 16;
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Qqqing q;
+        }
     }
 }
