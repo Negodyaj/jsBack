@@ -7,3 +7,13 @@ C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.
 C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.exe
 C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.pdb
 C:\Users\aefremenkov\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.CalcForm.resources
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\bin\Debug\Calculatorr.exe.config
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\bin\Debug\Calculatorr.exe
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\bin\Debug\Calculatorr.pdb
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.csprojAssemblyReference.cache
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.CalcForm.resources
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.Properties.Resources.resources
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.csproj.GenerateResource.cache
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.csproj.CoreCompileInputs.cache
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.exe
+C:\Users\Dev_Teacher\Desktop\jsBack\Calculatorr\obj\Debug\Calculatorr.pdb
