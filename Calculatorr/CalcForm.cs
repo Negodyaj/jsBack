@@ -165,5 +165,10 @@ namespace Calculatorr
         {
             Console.WriteLine("хуяк-хуяк");
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Qqqing q;
+        }
     }
 }

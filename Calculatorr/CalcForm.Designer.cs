@@ -45,6 +45,7 @@
             this.buttonResult = new System.Windows.Forms.Button();
             this.resultBox = new System.Windows.Forms.TextBox();
             this.currentOperationBox = new System.Windows.Forms.TextBox();
+            this.button10 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -223,11 +224,21 @@
             this.currentOperationBox.Text = "42";
             this.currentOperationBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(13, 196);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(202, 23);
+            this.button10.TabIndex = 19;
+            this.button10.Text = "QQQ";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Location = new System.Drawing.Point(221, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(35, 178);
+            this.pictureBox1.Size = new System.Drawing.Size(35, 207);
             this.pictureBox1.TabIndex = 19;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
@@ -237,7 +248,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(268, 199);
+            this.ClientSize = new System.Drawing.Size(268, 226);
+            this.Controls.Add(this.button10);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.currentOperationBox);
             this.Controls.Add(this.resultBox);
@@ -285,6 +297,7 @@
         private System.Windows.Forms.Button buttonResult;
         private System.Windows.Forms.TextBox resultBox;
         private System.Windows.Forms.TextBox currentOperationBox;
+        private System.Windows.Forms.Button button10;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
